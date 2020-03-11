@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-library-demo.git",
-    "baseUrl": "https://github.com/github_account/react-native-library-demo"
+    "url": "git+https://github.com/HoangChu96/library-demo.git",
+    "baseUrl": "https://github.com/HoangChu96/library-demo"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "HoangChu96",
+    "email": "chutuhoang@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
