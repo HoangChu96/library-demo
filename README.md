@@ -9,4 +9,6 @@ Chúng tôi cung cấp cho bạn một nơi tuyệt vời để giải trí cùn
 - Cùng chơi "2048" để thử thách trí thông minh của mình.
 
 # Bạn cần sự giúp đỡ
-Nếu bạn cần chúng tôi hỗ trợ, giải đáp bất kỳ điều gì, đừng ngần ngại liên hệ với chúng tôi qua địa chỉ email: manhhoang688688@gmail.com
+Nếu bạn cần chúng tôi hỗ trợ, giải đáp bất kỳ điều gì, đừng ngần ngại liên hệ với chúng tôi qua địa chỉ:
+- Email: manhhoang688688@gmail.com
+- Số điện thoại: +639159906989
