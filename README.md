@@ -1,17 +1,12 @@
-# react-native-library-demo
+# Chào mừng bạn đến với trung tâm trợ giúp
 
-## Getting started
+Đăng nhập để trải nghiệm cùng chúng tôi.
 
-`$ npm install react-native-library-demo --save`
+Chúng tôi cung cấp cho bạn một nơi tuyệt vời để giải trí cùng các trò chơi offline đơn giản. 
 
-### Mostly automatic installation
+# Một số trò chơi bạn có thể tìm thấy ở đây
+- Cùng chơi "H A N G M A N" để kiểm tra kiến thức bản thân.
+- Cùng chơi "2048" để thử thách trí thông minh của mình.
 
-`$ react-native link react-native-library-demo`
-
-## Usage
-```javascript
-import LibraryDemo from 'react-native-library-demo';
-
-// TODO: What to do with the module?
-LibraryDemo;
-```
+# Bạn cần sự giúp đỡ
+Nếu bạn cần chúng tôi hỗ trợ, giải đáp bất kỳ điều gì, đừng ngần ngại liên hệ với chúng tôi qua địa chỉ email: manhhoang688688@gmail.com
