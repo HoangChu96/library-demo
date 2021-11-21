@@ -10,5 +10,5 @@ Chúng tôi cung cấp cho bạn một nơi tuyệt vời để giải trí cùn
 
 # Bạn cần sự giúp đỡ
 Nếu bạn cần chúng tôi hỗ trợ, giải đáp bất kỳ điều gì, đừng ngần ngại liên hệ với chúng tôi qua địa chỉ:
-- Email: manhhoang688688@gmail.com
+- Email: tuyethoang.ttt@outlook.com
 - Số điện thoại: +639159906989
