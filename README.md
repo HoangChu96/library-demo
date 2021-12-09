@@ -1,14 +1,10 @@
 # Chào mừng bạn đến với trung tâm trợ giúp
 
-Đăng nhập để trải nghiệm cùng chúng tôi.
+Cài đặt ứng dụng để trải nghiệm cùng chúng tôi.
 
 Chúng tôi cung cấp cho bạn một nơi tuyệt vời để giải trí cùng các trò chơi offline đơn giản. 
 
-# Một số trò chơi bạn có thể tìm thấy ở đây
-- Cùng chơi "H A N G M A N" để kiểm tra kiến thức bản thân.
-- Cùng chơi "2048" để thử thách trí thông minh của mình.
-
 # Bạn cần sự giúp đỡ
 Nếu bạn cần chúng tôi hỗ trợ, giải đáp bất kỳ điều gì, đừng ngần ngại liên hệ với chúng tôi qua địa chỉ:
-- Email: tuyethoang.ttt@outlook.com
+- Email: nguyenvanthanhnuce.vb2@hotmail.com
 - Số điện thoại: +639159906989
